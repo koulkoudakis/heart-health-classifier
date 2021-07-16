@@ -1,2 +1,2 @@
 # Heart Health Classifier
-Machine learning model used to classify whether a patient has heart disease based on structured data
+This notebook looks into using various Python-based machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
