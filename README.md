@@ -1,11 +1,10 @@
-#### Name: 
-Heart Health Classifier
-#### Author: 
-Sharome Burton
-#### Date:
-07/15/2021
-#### Description: 
-This notebook looks into using various Python-based machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
+**Name:** Heart Health Classifier
+
+**Author:** Sharome Burton
+
+**Date:** 07/16/2021
+
+**Description:** Machine learning model used to classify whether a patient has heart disease based on structured data. This notebook looks into using various Python-based machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
 
 Approach:
 1. Problem definition
@@ -17,8 +16,7 @@ Approach:
 
 ## 1. Problem Definition
 
-In a statement,
-> Given clinical parameters about a patient, are we able to predict whether they have heart disease
+> Given clinical parameters about a patient, are we able to predict whether they have heart disease?
 
 ## 2. Data
 
