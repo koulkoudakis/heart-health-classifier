@@ -52,3 +52,5 @@ Information about each feature in the date
 * number of major vessels (0-3) colored by flourosopy
 * thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
+Guidance from data science and machine learning course: https://github.com/mrdbourke/zero-to-mastery-ml
+
