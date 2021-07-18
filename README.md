@@ -30,9 +30,7 @@ Data is also available on Kaggle: https://www.kaggle.com/ronitf/heart-disease-uc
 
 ## 4. Features
 
-Information about each feature in the date
-
-**Create data dictionary**
+Information about each feature in the dataset:
 
 * age: age in years
 * sex: sex (1 = male; 0 = female)
@@ -42,14 +40,14 @@ Information about each feature in the date
     - Value 3: non-anginal pain
     - Value 4: asymptomatic 
 * trestbps: resting blood pressure (in mm Hg on admission to the hospital)
-* serum cholestoral in mg/dl
-* fasting blood sugar > 120 mg/dl
-* resting electrocardiographic results (values 0,1,2)
-* maximum heart rate achieved
-* exercise induced angina
-* oldpeak = ST depression induced by exercise relative to rest
-* the slope of the peak exercise ST segment
-* number of major vessels (0-3) colored by flourosopy
+* chol: serum cholestoral in mg/dl
+* fbs: fasting blood sugar > 120 mg/dl
+* restecg: resting electrocardiographic results (values 0,1,2)
+* thalach: maximum heart rate achieved
+* exang: exercise induced angina
+* oldpeak: ST depression induced by exercise relative to rest
+* slope: the slope of the peak exercise ST segment
+* ca: number of major vessels (0-3) colored by flourosopy
 * thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
 Guidance from data science and machine learning course: https://github.com/mrdbourke/zero-to-mastery-ml
